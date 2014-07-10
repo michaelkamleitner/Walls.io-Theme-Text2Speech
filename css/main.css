@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(229, 229, 229);
+  padding: 40px;
+  font-family: 'Roboto', arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+#post {
+  width: 100%;
+  line-height:5em;
+  word-wrap: break-word;
+}
